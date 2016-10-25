@@ -1,0 +1,13 @@
+So what it seems like is that classes (how they put it, and how I kind of like seeing it as) 
+are containers that you fill with in formation. You can dump in these containers anything you want the containers
+to be. Sort of the base or stamp that you shape so that you can make coppied variations off of it.
+
+
+Scopes seem to be not objects or settings, but more determained by where an object or setting is within the code.
+Its a location more like, a place where code sits reletive to the big picture.
+
+ACCESS MODIFIERS:
+I finally seem to get these, It would seem that these are the blinds (window) of the program. When you leave the
+blinds open, you are letting other things outside the class see into it. Much like letting your neighborhood see
+into your home, show off your new furnature. However, when your home is a mess... you shut the blinds, or make the
+class private so it cannot be read or seen.
