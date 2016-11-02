@@ -1,0 +1,6 @@
+Variables are like files in a filing cabnet, each file holds different information for different
+subjects. for example "int myInt = 5" is like haveing a integer file, with the name "myInt" with
+some amount of 5 inside of the file. When given a new script you are given a start and update 
+function, in a way a file cabnet to place some of the types of files we want to create in. Placing
+a variable inside the file cabnet can effect the file within the same cabnet. The cabnet also has
+the last say on the total value of the files within.
