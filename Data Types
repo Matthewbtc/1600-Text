@@ -1,0 +1,6 @@
+All varieables have some kind of datatype wheather it be a value type or a refference type. Value types
+are known as integers, floats, booleans, characters, or strucks. Strucks are datatypes that contain more 
+then one or more variables. Transform classes and GameObject classes are the main forms of refference 
+types. The main difference between the two are values actually do contain some kind of value, and if it
+changes then the only that one value changes. While a refference depends on the memory stored, so if 
+changed anything with that memory storage will be effected.
