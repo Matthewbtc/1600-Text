@@ -1,0 +1,7 @@
+Whats nice about the if statements is that they are pretty similar to that of the same name in Javascript.
+How they work are, if something is declared in a if statement it will only work IF the if condition is
+not, restraining it from functioning. For example if I wanted code to run if the player's health was full
+it would run when, and only when the characters health is full. However, its not only right or wrong 
+statements. If the situation were if the characters health is at >= 50% then the code whould run when the 
+character's health is anywhere between 50% or 100%. Else statements add a new dimention, they can make an
+effect for if the if statement is not true.
