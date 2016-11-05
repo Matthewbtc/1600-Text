@@ -1,0 +1,6 @@
+Arrays are a way of storing data of the same kind together. When you make an array you must 
+clearify how many items, or elements are tored inside of it. One way to look at it is, you 
+title your array and give it a number, lets say 4, within that array you will have 4 
+different elements all calling back to the array name. However, what seperates them is the 
+place they are at, or the number they hold (0-3). Arrays can also be run by stating a single 
+line of code. How arrays are mainly run are by the location, and number of elements.
