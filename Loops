@@ -1,0 +1,6 @@
+Loops repeat code, and can do so in a variety of ways. This is best used for when there is a large 
+amount of repetetive data that is wanted to be displayed. As mentioned there are a few ways to use
+these loops, and they are given different titles. A "while" loop will repeat the given statement if 
+true, as many times until it is no longer true. Next, there is a "do while" loop, this loop instead
+of testing before hand like the while loop tests the condition at the end. And now, a "for" loop, a
+for loop is useful for counting, espessially when the number limit is known.
