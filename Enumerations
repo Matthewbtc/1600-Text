@@ -1,0 +1,6 @@
+Enumerations, or enum's are a little wierd to understand, or at least for some at first. They 
+are an alternative way to right statements similar to arrays. And not only do they function 
+similarly to arrays, but they actually form comand prompts unlike arrays. What this means is
+that you can form a set of enums that will be permanatly be imbeded within the classes. This 
+can save time, and helps with consistency when sharing larger projects with numerous amounts
+of people. 
