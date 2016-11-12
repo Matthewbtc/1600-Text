@@ -1,0 +1,7 @@
+A switch is a great and unique way to set up large amounts of sercomstances while probably
+being the most efficient and the easiest way to navigate thoughout a script. In stead of 
+having many if/else statements running throuout your code you can set up a switch statement
+that will guide the user throghout the code. How I see switches is like a power strip with
+multiple switches (like a light switch), each time a statement is true, or is completes you
+turn on the switch and the power runs through until it hits another off switch. At the end 
+of the switch there should be a default, this is basically the else in a if/else statement.
